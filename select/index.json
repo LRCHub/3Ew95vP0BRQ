@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "クラムボン",
+  "base_artist": "Laplacian",
+  "createdAt": "2026-03-31T06:55:46.095554Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ファンタジア (adding 原田郁子 from クラムボン)",
+      "artist": "livetune",
+      "has_synced": true,
+      "path": "select/01_ファンタジア_(adding_原田郁子_from_クラムボン)_livetune.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "クラムボン (feat. yuki)",
+      "artist": "Laplacian",
+      "has_synced": false,
+      "path": "select/pl_01_クラムボン_(feat._yuki)_Laplacian.txt"
+    }
+  ]
+}
